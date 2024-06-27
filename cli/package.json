@@ -1,0 +1,4 @@
+{
+  "main": "dist/audit-cli.cjs.js",
+  "module": "dist/audit-cli.esm.js"
+}
